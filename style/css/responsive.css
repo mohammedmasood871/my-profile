@@ -16,7 +16,7 @@
 	}
 
 	.hero img {
-		height: 500px;
+		height: 1000px;
 	}
 
 	/* SITEMAIN
@@ -65,7 +65,8 @@
 	}
 
 	.hero img {
-		height: 420px;
+		height: 973px;
+		margin-right: -130px;
 	}
 
 	/* SITEMAIN
